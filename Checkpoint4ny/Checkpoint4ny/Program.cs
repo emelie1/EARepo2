@@ -6,6 +6,7 @@ namespace Checkpoint4ny
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
