@@ -8,6 +8,8 @@ namespace Checkpoint4ny
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Best movies ever!");
+
+            Console.WriteLine("Die Hard");
         }
     }
 }
